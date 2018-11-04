@@ -1,0 +1,1 @@
+This workout is to practice creating different functions, using if conditionals, loop structures, and manipulation of strings. It will also familiarize us with writing Roxygen comments. Furthermore, we will use the R package "testthat" to test for our functions.
